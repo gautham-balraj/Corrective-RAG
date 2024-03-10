@@ -28,11 +28,11 @@ After optimizing the retrieval results through corrective actions, any generativ
 
 CRAG is designed to be plug-and-play, meaning it can be seamlessly integrated into existing Retrieval-Augmented Generation (RAG) frameworks. It has been experimentally implemented with standard RAG and Self-RAG models, demonstrating its adaptability and effectiveness in improving text generation performance across various datasets and tasks.
 
-## CRAG Compared to RAG
+### CRAG Compared to RAG
 
 While RAG focuses on integrating external knowledge into the generation process, CRAG takes a step further by evaluating, refining, and integrating this knowledge to improve the accuracy and reliability of language models.
 
-## Acknowledgments
+### Acknowledgments
 
 Special thanks to the creators of Corrective RAG and the developers of Groq API for their valuable contributions to this project.
 
